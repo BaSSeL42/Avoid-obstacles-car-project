@@ -18,6 +18,7 @@ f64 UltrasonicRead(void);
 f64 ultrasonic_read(void);
 
 void extInt_init(void);
+f64 ultraRead(void);
 
 
 
