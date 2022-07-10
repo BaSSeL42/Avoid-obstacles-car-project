@@ -2,7 +2,7 @@
  * Bit_Math.h
  *
  *  Created on: Feb 1, 2019
- *      Author: Mina Raouf
+ *      Author: Bassel Yasser
  */
 #ifndef BIT_MATH_H_INCLUDED
 #define BIT_MATH_H_INCLUDED
